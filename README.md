@@ -1,6 +1,6 @@
 ### Oi! Eu sou o José Marcos 👋
 
-- 🔭 Estou buscando trabalho como back-end
+- 🔭 Estou buscando trabalho como database
 - 🌱 Estudando Python 
 - 😄 Pronome: Ele/Dele
 
