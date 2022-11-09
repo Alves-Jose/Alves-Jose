@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Eai? Meu nome é José Marcos :wave: </h1>
+<h1> Oi! Meu nome é José Marcos :wave: </h1>
 </div>
 
 ### :bust_in_silhouette: Sobre mim
