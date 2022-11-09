@@ -5,7 +5,7 @@
 ### :bust_in_silhouette: Sobre mim
 
 - :construction_worker: Desenvolvedor BackEnd SQL | Python
-- :people_holding_hands: Procurando contribuir em projetos open source, chama ai!
+- :people_holding_hands: Procurando contribuir em projetos open source.
 ### :telephone: Entre em contato comigo
 <div> 
 <a href="https://www.linkedin.com/in/josemarcos81/"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
