@@ -4,7 +4,7 @@
 
 ### :bust_in_silhouette: Sobre mim
 
-- :construction_worker: Desenvolvedor BackEnd SQL | Python
+- :construction_worker: Desenvolvedor Back-End SQL | Python
 - :people_holding_hands: Procurando contribuir em projetos open source.
 ### :telephone: Entre em contato comigo
 <div> 
