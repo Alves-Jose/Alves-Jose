@@ -5,7 +5,7 @@
 ### :bust_in_silhouette: Sobre mim
 
 - :construction_worker: Desenvolvedor Back-End SQL | Python
-- :people_holding_hands: Procurando trabalho como Dev SQL.
+- :people_holding_hands: Em busca de oportunidade como Dev SQL.
 ### :telephone: Entre em contato comigo
 <div> 
 <a href="https://www.linkedin.com/in/josemarcos81/"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
