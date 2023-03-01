@@ -5,7 +5,7 @@
 ### :bust_in_silhouette: Sobre mim
 
 - :construction_worker: Desenvolvedor Back-End SQL | Python
-- :people_holding_hands: Em busca de oportunidade como Dev SQL.
+- :people_holding_hands: Em busca de oportunidade.
 - :seedling: Estudando **Elixir**
 ### :telephone: Entre em contato comigo
 <div> 
