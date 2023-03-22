@@ -18,18 +18,29 @@
       
 <h2 align="left">My Skills</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jose-Python" height="50" width="60" src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor
-  <img align="center" alt="Savio-CSS" height="50" width="60" src="ttps://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=ffffff
-  <img align="center" alt="Savio-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Savio-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Savio-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Savio-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Savio-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-   <img align="center" alt="Savio-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-   <img align="center" alt="Savio-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Savio-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg""> 
-  <img align="center" alt="Savio-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-   <img align="center" alt="Savio-Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Jose-Python" height="50" width="60" src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor>
+  <img align="center" alt="Jose-Elixir" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Jose-Phoenix" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
+	<img align="center" alt="Jose-MySql" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+	<img align="center" alt="Jose-Markdown" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+	<img align="center" alt="Jose-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+	<img align="center" alt="Jose-illustrator" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+	
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+   
+          
+  
+          
 </div>     
  
 <div>  
