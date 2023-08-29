@@ -17,6 +17,7 @@
       
 <h2 align="left">My Skills</h2>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jose-PHP" height="50" width="60" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg/>
   <img align="center" alt="Jose-Python" height="50" width="60" src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor>
   <img align="center" alt="Jose-Elixir" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img align="center" alt="Jose-Phoenix" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
@@ -24,6 +25,8 @@
 	<img align="center" alt="Jose-Markdown" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 	<img align="center" alt="Jose-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 	<img align="center" alt="Jose-illustrator" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+ 	
+ 
 	
           
           
