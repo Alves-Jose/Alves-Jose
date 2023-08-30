@@ -10,12 +10,12 @@
 <div  align="center">  
   <a href="https://github.com/Alves-Jose">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alves-jose&title_color=f1434a&icon_color=f17960&text_color=ff5c38&bg_color=00000000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
- <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-jose&layout=compact&langs_count=7&theme=algolia"/>  
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alves-jose&title_color=f1434a&icon_color=f17960&text_color=ff5c38&bg_color=00000000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+ <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-jose&layout=compact&langs_count=7&theme=algolia"/> -->
       
 </div>
       
-<h2 align="left">My Skills</h2>
+<h2 align="left">My Skills Front-End</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jose-PHP" height="70" width="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Jose-Python" height="50" width="60" src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor>
