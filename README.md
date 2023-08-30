@@ -24,6 +24,10 @@
 
 <img align="center" alt="Jose-JS" height="70" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
+<img align="center" alt="Jose-Photoshop" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
+
+<img align="center" alt="Jose-illustrator" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
+
 
 <h2 align="left">My Skills Back-End</h2>
 <div style="display: inline_block"><br>
@@ -40,11 +44,7 @@
   
   <img align="center" alt="Jose-CodeIgniter" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg"/>
   
-  <img align="center" alt="Jose-Markdown" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-	
-  <img align="center" alt="Jose-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-	
-  <img align="center" alt="Jose-illustrator" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img align="center" alt="Jose-Markdown" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
  	
  
 	
