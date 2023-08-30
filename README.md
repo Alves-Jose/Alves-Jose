@@ -17,6 +17,16 @@
       
 <h2 align="left">My Skills Front-End</h2>
 <div style="display: inline_block"><br>
+
+<img align="center" alt="Jose-HTML" height="70" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+
+<img align="center" alt="Jose-CSS" height="70" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+
+<img align="center" alt="Jose-JS" height="70" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+
+
+<h2 align="left">My Skills Back-End</h2>
+<div style="display: inline_block"><br>
 	
   <img align="center" alt="Jose-PHP" height="70" width="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 	
