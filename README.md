@@ -13,58 +13,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alves-jose&title_color=f1434a&icon_color=f17960&text_color=ff5c38&bg_color=00000000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 <!-- <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-jose&layout=compact&langs_count=7&theme=algolia"/> -->
       
-</div>
-      
-<h2 align="left">My Skills Front-End</h2>
-<div style="display: inline_block"><br>
-
-<img align="center" alt="Jose-HTML" height="60" width="70" src= "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
-
-<img align="center" alt="Jose-CSS" height="60" width="70" src= "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
-
-<img align="center" alt="Jose-JS" height="60" width="70" src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-
-<img align="center" alt="Jose-Photoshop" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
-
-<img align="center" alt="Jose-illustrator" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
-
-
-<h2 align="left">My Skills Back-End</h2>
-<div style="display: inline_block"><br>
-	
-  <img align="center" alt="Jose-PHP" height="70" width="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-	
-  <img align="center" alt="Jose-Python" height="70" width="80" src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
-  
-  <img align="center" alt="Jose-Elixir" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
-
-  <img align="center" alt="Jose-MySql" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
-  <img align="center" alt="Jose-Phoenix" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
-
-  <img align="center" alt="Jose-CodeIgniter" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg"/>
-  
-  
-  
- 	
- 
-	
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-   
-          
-  
-          
-</div>     
+</div>  
  
 <div>  
 <h2 align="left">Contato</h2>
