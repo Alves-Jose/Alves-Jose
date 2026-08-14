@@ -7,13 +7,13 @@
 
   <br>
       
-<div  align="center">  
+<!-- <div  align="center">  
   <a href="https://github.com/Alves-Jose">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alves-jose&title_color=f1434a&icon_color=f17960&text_color=ff5c38&bg_color=00000000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 <!-- <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-jose&layout=compact&langs_count=7&theme=algolia"/> -->
       
-</div>  
+</div>   -->
  
 <div>  
 <h2 align="left">Contato</h2>
