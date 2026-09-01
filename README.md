@@ -1,34 +1,49 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2c&height=120&section=header"/>
+# José Marcos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd3b44&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+José+Marcos,;Sou+Desenvolvedor+Back-End;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
+**`Desenvolvedor Backend`**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?color=ff5c38&line=f17960&title_color=fd3b44&username=Alves-Jose&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Me chamo José Marcos, sou de Brasília e trabalho como Engenheiro de Software no DWV App, uma plataforma de CRM e atendimento usada por incorporadoras. Meu dia a dia é backend em Elixir/Phoenix: processamento assíncrono com Oban, camada analítica em ClickHouse e integrações com as APIs da Meta (WhatsApp Business e Lead Ads) e do Google (Calendar e Meet). Atualmente estou cursando Análise e Desenvolvimento de Sistemas no UDF Centro Universitário.
 
+Antes de migrar para a engenharia, atuei alguns anos com design e tráfego pago, o que hoje me ajuda a entender o lado do produto e a conversar direto com cliente e time comercial.
 
-  <br>
-      
-<!-- <div  align="center">  
-  <a href="https://github.com/Alves-Jose">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alves-jose&title_color=f1434a&icon_color=f17960&text_color=ff5c38&bg_color=00000000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-<!-- <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-jose&layout=compact&langs_count=7&theme=algolia"/> -->
-      
-</div>   -->
- 
-<div>  
-<h2 align="left">Contato</h2>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemarcos8133@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemarcos81/)
 
-  <a href="https://www.instagram.com/ilovemyhavaianas_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-       
-  badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href = "mailto:josemarcos8133@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/josemarcos81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
- 
-<!-- ![Snake animation](https://github.com/Alves-Jose/Alves-Jose/blob/output/github-contribution-grid-snake.svg) -->
-    
-</div>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2c&height=120&section=footer"/>
+### 🤖 Linguagens e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+
+**Backend** · Elixir · Phoenix · Ecto · Oban · APIs REST · OAuth 2.0 · Processamento assíncrono
+
+**Dados** · PostgreSQL · ClickHouse · SQL · Materialized Views · Migração de dados · BI
+
+**Integrações** · WhatsApp Business API · Meta Lead Ads · Google Calendar API · Google Meet
+
+**Ferramentas** · Git · Sentry · Gigalixir · Claude Code · Cursor
+
+**Estudando** · Swift · SwiftUI · UIKit
+
+---
+
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alves-Jose&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+<!--
+NÃO ADICIONE o card de Top Languages enquanto não houver repositórios em Elixir.
+Ele lê os seus repos e hoje exibiria PHP, SQL e JavaScript no topo, contradizendo
+o posicionamento de backend Elixir. Assim que publicar projetos em Elixir, é só
+descomentar a linha abaixo.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alves-Jose&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8)
+-->
