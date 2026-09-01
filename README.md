@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo José Marcos, sou de Brasília e trabalho como Engenheiro de Software no DWV App, uma plataforma de CRM e atendimento usada por incorporadoras. Meu dia a dia é backend em Elixir/Phoenix: processamento assíncrono com Oban, camada analítica em ClickHouse e integrações com as APIs da Meta (WhatsApp Business e Lead Ads) e do Google (Calendar e Meet). Atualmente estou cursando Análise e Desenvolvimento de Sistemas no UDF Centro Universitário.
+Me chamo José Marcos, sou de Brasília e trabalho como Engenheiro de Software no DWV App, uma plataforma de CRM e atendimento usada por incorporadoras. Meu dia a dia é backend em Elixir/Phoenix: processamento assíncrono com Oban, camada analítica em ClickHouse e integrações com as APIs da Meta (WhatsApp Business e Lead Ads) e do Google (Calendar e Meet). Atualmente estou cursando Análise e Desenvolvimento de Sistemas no UDF.
 
 Antes de migrar para a engenharia, atuei alguns anos com design e tráfego pago, o que hoje me ajuda a entender o lado do produto e a conversar direto com cliente e time comercial.
 
